@@ -1,0 +1,8 @@
+main: fr.talec.monpremierplugin.Main
+name: MonPremierPlugin
+version: 1.0
+commands:
+  gm:
+  test:
+  spawn:
+  player:
